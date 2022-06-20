@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Joyce (@jliao9), a web developer in the beginning stages of training.
-- 👀 I’m interested in becoming more familiar with Git and GitHub.
-- 🌱 I’m currently learning the command line.
+- 👋 Hi, I’m Joyce (@jliao9), a web developer in training
+- 👀 I’m interested in building more projects for my portfolio.
+- 🌱 I’m currently learning front end languages.
 - 📫 You can reach me at joyceliao2001@gmail.com
 
 <!---
